@@ -8,6 +8,7 @@ module.exports = {
   favicon: 'img/logo.png',
   organizationName: 'coMakeIT-TIC',
   projectName: 'coMakeIT-TIC.github.io',
+  deploymentBranch:'gh-pages',
 
   themes: [
     // ... Your other themes.
